@@ -1,9 +1,0 @@
-[submodule "frontendd"]
-	path = frontendd
-	url = https://github.com/hayaTfaily/ProductsManagement.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/hayaTfaily/ProductsManagement.git
-[submodule "frontenddd"]
-	path = frontenddd
-	url = https://github.com/hayaTfaily/ProductsManagement.git
